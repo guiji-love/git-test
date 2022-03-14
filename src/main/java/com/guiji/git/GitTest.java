@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("hello,git2!");
         System.out.println("hello,git in hot-fix!");
         System.out.println("hello,git in master for test!");
+        System.out.println("hello,git in hot-fix for test exce!");
     }
 }
